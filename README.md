@@ -24,6 +24,11 @@ The easiest data source for this is our own mobile photos timeline, where we hav
 There could be classes of similar looking images that may not be identified by this solution. E.g. if a user shoots the same scene using different camera settings (e.g. fix over/under exposure), then the solution should still be able to identify it. Now, there could be a multitude of such scenarios, some of which may not be comprehended. 
 Since this runs on device, and is entirely upto the user to invoke it's usage, there is no foreseeable ethical issue in deploying the solution.
 
+But sometimes using TOOLS is  image location finder using AI is not possible ?
+ because uploaded a photo from  Stockholm Sweden. in this tools https://picarta.ai/ but it shows Micro, United States, , so no exact  data involved , so accurate representation of image location not visible 
+so its my general impression to get about AI from the image search  
+
+
 ## What next?
 
 We need to break this into a number of smaller problems to solve:
